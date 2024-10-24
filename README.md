@@ -2,7 +2,7 @@
 
 ![logo](./public/logo.png)
 
-Play at https://mvx.itch.io/defrag98
+Play at https://mvx.itch.io/defrag98 (original version, I'm still working on the new version)
 
 ## Credits
 
